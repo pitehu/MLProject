@@ -7,3 +7,12 @@ No description of the dataset or attributes were given, only the range of each a
 that lightbgm gives the best performance. 
 
 
+In decisiontree.py, I implement the ID3 algorithem from scractch. For simplicity, it is assumed that all attributes are binary. 
+
+In naivebayes.py, I implement a Naive Bayes classifier.
+
+In MDP.py, I implement the value iteration algorithm for finding the optimal policy for
+each state of an MDP using Bellman’s equation. 
+
+In neuralnets.py, I implement a sigmoid unit for binary classification tasks with gradient descent all from scratch. My model is able to process any binary classification task with any number of binary-valued attributes.
+
